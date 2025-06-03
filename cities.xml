@@ -20,7 +20,7 @@
 			<link>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD08FR31096</link>
 			<description>
       apartment_price: {
-        place_id: "AD08FR31096",
+        place_id: AD08FR31096,
         low: 6285,
         high: 15953,
         value: 9519,
