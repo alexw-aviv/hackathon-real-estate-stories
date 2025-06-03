@@ -16,10 +16,10 @@
       <title>La part de passoires thermiques à la vente désormais plus importante qu’à la location</title>
       <link>https://aviv-brand.seloger.com/document/4#/mai-2025/dpe-jusqu-a-25-d-ecarts-de-prix-selon-les-territoires</link>
       <description>Depuis la promulgation et avec la mise en œuvre progressive de la loi, la part de passoires thermiques, proposées à la location, recule (sur l’ensemble des biens à louer), alors que la part de celles mises en vente (par rapport à l’ensemble des biens en vente) augmente.</description>
-      <author>Jane Doe</author>
+      <author>joesmith@example.com (Joe Smith)</author>
       <category>News</category>
       <pubDate>Tue, 03 Jun 2025 11:30:00 +0200</pubDate>
-      <enclosure url="https://media.ffycdn.net/eu/se-loger-group/qo5XAccQqGtQrD76djah.jpg" type="image/jpeg"/>
+      <enclosure url="https://media.ffycdn.net/eu/se-loger-group/qo5XAccQqGtQrD76djah.jpg" length="228815" type="image/jpeg"/>
     </item>
 
     <item>
@@ -35,11 +35,11 @@
     <item>
       <title>Quelles conséquences pour les passoires thermiques proposées à la location ?</title>
       <link>https://aviv-brand.seloger.com/document/4#/mai-2025/dpe-jusqu-a-25-d-ecarts-de-prix-selon-les-territoires</link>
-      <description>L’application progressive de la loi Climat & Résilience, qui cible en priorité le marché de la location, incite les bailleurs à améliorer la performance énergétique de leurs biens. Cette dynamique se traduit par une différenciation claire des loyers en fonction de l’étiquette DPE. A Paris par exemple, au 1er janvier 2025, les logements classés A se louent en moyenne +3,0 € de plus par mètre carré que les logements classés D. À l’inverse, les biens classés G affichent un loyer mensuel inférieur de -1,3 € / m² à ceux classés D*.</description>
-      <author>Emily Green</author>
+      <description>L'application progressive de la loi Climat &amp; Résilience, qui cible en priorité le marché de la location, incite les bailleurs à améliorer la performance énergétique de leurs biens. Cette dynamique se traduit par une différenciation claire des loyers en fonction de l’étiquette DPE. A Paris par exemple, au 1er janvier 2025, les logements classés A se louent en moyenne +3,0 € de plus par mètre carré que les logements classés D. À l’inverse, les biens classés G affichent un loyer mensuel inférieur de -1,3 € / m² à ceux classés D*.</description>
+      <author>egreen@example.com (Emily Green)</author>
       <category>Location</category>
       <pubDate>Mon, 02 Jun 2025 18:00:00 +0200</pubDate>
-      <enclosure url="https://aviv-brand.seloger.com/api/attachment/download/eyJibG9ja19yZWZlcmVuY2UiOm51bGwsImlkIjo0MzZ9:se-loger-group:BNXLJbnH66rQnzoiAATGTS1VPoa0K21vH5u2y34ZevI" type="image/jpeg"/>
+      <enclosure url="https://media.ffycdn.net/eu/se-loger-group/ycnyj26RHT2ai9mzK5qN.jpg" length="270007" type="image/jpeg"/>
     </item>
 
   </channel>
