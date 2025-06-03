@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Suivre en direct le prix des appartements sur Paris</title>
+		<description>SuiverRetrouvez les dernières tnedancestoute l'actualité internationale et les décryptages Immobilier à lire et à revoir en replay sur France 24</description>
+		<link>https://raw.githubusercontent.com/alexw-aviv/hackathon-real-estate-stories/refs/heads/main/cities.xml</link>
+		<lastBuildDate>Mon, 02 Jun 2025 14:27:06 GMT</lastBuildDate>
+		<atom:link href="https://raw.githubusercontent.com/alexw-aviv/hackathon-real-estate-stories/refs/heads/main/cities.xml" ref="self" type="application/rss+xml"/>
+		<item>
+			<category>Tendances sur les prix de vente des appartements pour Paris 12ème</category>
+			<title>Tendances sur les prix de vente des appartements pour Paris 12ème</title>
+			<link>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD08FR31096</link>
+			<description>
+      "apartment_price": {
+        "place_id": "AD08FR31096",
+        "low": 6285,
+        "high": 15953,
+        "value": 9519,
+        "accuracy": 5
+      }
+            </description>
+			<enclosure url="https://st3.depositphotos.com/1003230/36159/v/450/depositphotos_361598154-stock-illustration-confidence-level-meter.jpg" length="0"/>
+			<guid isPermaLink="false">a5e0087c-b13e-11ef-94c3-005056a97652</guid>
+			<pubDate>Tue, 03 Dec 2024 07:03:59 GMT</pubDate>
+			<dc:creator>Aviv Group</dc:creator>
+		</item>
+		<language>fr</language>
+	</channel>
+</rss>
