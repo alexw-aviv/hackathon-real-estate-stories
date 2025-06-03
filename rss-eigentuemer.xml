@@ -4,7 +4,7 @@
     <channel>
         <!-- required elements -->
         <title>Wissen rund um die eigene Immobilie</title>
-        <link>  </link>
+        <link>https://www.immowelt.de/ratgeber/eigentuemer/rss.xml</link>
         <description>Erfahre in unserem Ratgeber alles zu Rechten, Pflichten und den Kosten, die durch Wohneigentum auf dich zukommen.</description>
         <!-- optional elements -->
         <language>de-de</language>
