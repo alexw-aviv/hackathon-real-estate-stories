@@ -20,15 +20,17 @@
       <description>Vincennes - Charming apartment in the heart of Vincennes, close to shops and metro. Bright and well laid out.</description>
       <guid>https://www.seloger.com/annonces/achat/appartement/vincennes-94/diderot-domaine-du-bois/242890609.htm</guid>
       <pubDate>Tue, 03 Jun 2025 14:30:00 +0200</pubDate>
+       <category>Vincennes</category>
       <enclosure url="https://mms.seloger.com/7/1/3/b/713b2776-6fbd-4b1f-a704-10ecaf356c06.jpg?ci_seal=2b2d2817fce868091c2ca6fe3a1d0c7c9aadcb0b&amp;w=1536&amp;func=fit&amp;bg_color=000&amp;org_if_sml=1" length="204800" type="image/jpeg"/>
     </item>
 
     <item>
       <title>60m² - 3 rooms - 495 000€</title>
       <link>https://www.seloger.com/annonces/achat/appartement/vincennes-94/diderot-domaine-du-bois/242890609.htm</link>
-      <description>Saint-Mandé - Spacious and sunny apartment with a balcony and separate kitchen.</description>
+      <description>Spacious and sunny apartment with a balcony and separate kitchen.</description>
       <guid>https://www.seloger.com/annonces/achat/appartement/vincennes-94/diderot-domaine-du-bois/242890609.htm</guid>
       <pubDate>Tue, 03 Jun 2025 14:20:00 +0200</pubDate>
+       <category>Saint-Mandé</category>
       <enclosure url="https://mms.seloger.com/4/b/8/7/4b877a83-802a-46ff-84d5-4eaf573a4ca7.jpg?ci_seal=17a3fcadebb08714c2428a5ddf8088ebd487b5e5&amp;w=1536&amp;func=fit&amp;bg_color=000&amp;org_if_sml=1" length="204800" type="image/jpeg"/>
     </item>
 
@@ -38,6 +40,7 @@
       <description>Paris 12 - Well-located 2-room apartment, quiet street, close to Nation metro.</description>
       <guid>https://www.seloger.com/listing/paris12-1</guid>
       <pubDate>Tue, 03 Jun 2025 14:10:00 +0200</pubDate>
+       <category>Paris 12</category>
       <enclosure url="https://mms.seloger.com/6/a/6/f/6a6f515e-f48a-40c0-8efb-a752e7158b40.jpg?ci_seal=57903402ba317902bdef3d5d54af2820dc86ec27&amp;w=1536&amp;func=fit&amp;bg_color=000&amp;org_if_sml=1" length="204800" type="image/jpeg"/>
     </item>
 
