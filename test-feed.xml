@@ -1,38 +1,50 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
   <channel>
-    <title>Real Estate Stories TEST</title>
-    <link>https://www.seloger.com/stories</link>
-    <atom:link href="https://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <description>Short property insights and real estate tips</description>
-    <language>fr-FR</language>
-    <pubDate>Tue, 03 Jun 2025 14:15:00 +0200</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 14:15:00 +0200</lastBuildDate>
+    <title>Real Estate Stories</title>
+    <link>https://yourdomain.com/stories</link>
+    <description>Fresh insights, trends, and tips from the world of real estate.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2025, Your Company Name. All rights reserved.</copyright>
+    <managingEditor>info@yourdomain.com (Your Team)</managingEditor>
+    <webMaster>info@yourdomain.com (Your Web Team)</webMaster>
+    <pubDate>Tue, 03 Jun 2025 12:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 12:00:00 +0200</lastBuildDate>
+    <category>Real Estate</category>
+    <generator>Your CMS or Feed Generator</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
 
     <item>
-      <title>📉 Prices drop in Paris 18th</title>
-      <link>https://www.seloger.com/stories/paris18</link>
-      <guid isPermaLink="true">https://www.seloger.com/stories/paris18</guid>
-      <description>Prices fell by 2.4% this month. Discover why it may be the right time to buy.</description>
-      <pubDate>Tue, 28 May 2024 18:00:00 +0200</pubDate>
-      <enclosure url="https://cdn.seloger.com/stories/img/paris18.jpg" type="image/jpeg" length="123456" />
+      <title>How to Negotiate Like a Pro When Buying a Home</title>
+      <link>https://yourdomain.com/stories/negotiation-tips</link>
+      <description>Learn key strategies to get the best deal when buying a home.</description>
+      <author>Jane Doe</author>
+      <category>Buying Tips</category>
+      <guid>https://yourdomain.com/stories/negotiation-tips</guid>
+      <pubDate>Tue, 03 Jun 2025 11:30:00 +0200</pubDate>
+      <enclosure url="https://cdn.yourdomain.com/images/negotiation.jpg" length="305678" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>🛋️ 3 Home Staging Tricks to Sell Faster</title>
-      <link>https://www.seloger.com/stories/home-staging</link>
-      <guid isPermaLink="true">https://www.seloger.com/stories/home-staging</guid>
-      <description>Declutter, add light, and highlight space — here’s how to make your home shine.</description>
-      <pubDate>Tue, 28 May 2024 18:00:00 +0200</pubDate>
-      <enclosure url="https://cdn.seloger.com/stories/img/staging.jpg" type="image/jpeg" length="123456" />
+      <title>Top 5 Mistakes First-Time Sellers Make</title>
+      <link>https://yourdomain.com/stories/seller-mistakes</link>
+      <description>Avoid these common pitfalls when selling your property for the first time.</description>
+      <author>John Smith</author>
+      <category>Selling Advice</category>
+      <guid>https://yourdomain.com/stories/seller-mistakes</guid>
+      <pubDate>Tue, 03 Jun 2025 10:00:00 +0200</pubDate>
+      <enclosure url="https://cdn.yourdomain.com/images/seller-mistakes.jpg" length="402356" type="image/jpeg"/>
     </item>
 
     <item>
-      <title>📍 Focus: Bordeaux Market Update</title>
-      <link>https://www.seloger.com/stories/bordeaux</link>
-      <guid isPermaLink="true">https://www.seloger.com/stories/bordeaux</guid>
-      <description>New listings in Bordeaux are up 11% and average sale time is down by 10 days.</description>
-      <pubDate>Tue, 28 May 2024 18:00:00 +0200</pubDate>
-      <enclosure url="https://cdn.seloger.com/stories/img/bordeaux.jpg" type="image/jpeg" length="123456" />
+      <title>Spring Market Trends: What to Expect in 2025</title>
+      <link>https://yourdomain.com/stories/spring-2025-trends</link>
+      <description>From pricing shifts to buyer behaviors — here's what you need to know this season.</description>
+      <author>Emily Green</author>
+      <category>Market Trends</category>
+      <guid>https://yourdomain.com/stories/spring-2025-trends</guid>
+      <pubDate>Mon, 02 Jun 2025 18:00:00 +0200</pubDate>
+      <enclosure url="https://cdn.yourdomain.com/images/spring-trends.jpg" length="389204" type="image/jpeg"/>
     </item>
 
   </channel>
