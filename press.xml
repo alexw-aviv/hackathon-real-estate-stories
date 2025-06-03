@@ -19,6 +19,7 @@
       <author>joesmith@example.com (Joe Smith)</author>
       <category>News</category>
       <pubDate>Tue, 03 Jun 2025 11:30:00 +0200</pubDate>
+      <guid>https://yourdomain.com/stories/news</guid>
       <enclosure url="https://media.ffycdn.net/eu/se-loger-group/qo5XAccQqGtQrD76djah.jpg" length="228815" type="image/jpeg"/>
     </item>
 
@@ -29,6 +30,7 @@
       <author>jsmith@example.com (John Smith)</author>
       <category>Prix</category>
       <pubDate>Tue, 03 Jun 2025 10:00:00 +0200</pubDate>
+      <guid>https://yourdomain.com/stories/price</guid>
       <enclosure url="https://media.ffycdn.net/eu/se-loger-group/S5peXQnzbMS4ctDgv2uR.jpg" length="488763" type="image/jpeg"/>
     </item>
 
@@ -39,6 +41,7 @@
       <author>egreen@example.com (Emily Green)</author>
       <category>Location</category>
       <pubDate>Mon, 02 Jun 2025 18:00:00 +0200</pubDate>
+      <guid>https://yourdomain.com/stories/location</guid>
       <enclosure url="https://media.ffycdn.net/eu/se-loger-group/ycnyj26RHT2ai9mzK5qN.jpg" length="270007" type="image/jpeg"/>
     </item>
 
