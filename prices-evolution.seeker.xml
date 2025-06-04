@@ -16,7 +16,7 @@
 
     <item>
       <title>Rental prices in Vincennes increased by 0,3% last month</title>
-      <enclosure url="https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brown" length="0" />
+      <enclosure url="https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brown" length="0" type="image/svg+xml" />
       <link>https://www.seloger.com/prix-location/detail/vincennes-94300</link>
       <description>
              The average rental price for apartment in this area is 28.88 €/m² and listings stay on market for 8 days.
@@ -29,13 +29,13 @@
 
     <item>
       <title>Rental prices in Paris 12 decreased by 2% last month</title>
-      <enclosure url="https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-gold" length="0" />
+      <enclosure url="https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-gold" length="0" type="image/svg+xml"/>
       <link>https://www.seloger.com/prix-location/detail/paris-75012</link>
       <description>
-             The average rental price for apartment in this area is 9 519 €/m² and listings stay on market for 5 days.
+             The average rental price for apartment in this area is 30.34 €/m² and listings stay on market for 5 days.
              The confidence level is very high by by PriceAPI and IndiceAPI      
       </description>
-      <guid>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD08FR31096</guid>
+      <guid>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD09FR37</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Market Insight</category>
     </item>
