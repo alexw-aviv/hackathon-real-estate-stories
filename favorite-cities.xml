@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Highest SeLoger Market Feed</title>
+    <link>https://www.seloger.com</link>
+    <description>Latest market trends in Vincennes, Saint-Mandé, and Paris 12.</description>
+    <language>fr-fr</language>
+    <copyright>Copyright 2025, SeLoger. All rights reserved</copyright>
+    <managingEditor>info@seloger.com (SeLoger)</managingEditor>
+    <webMaster>info@seloger.com (SeLoger)</webMaster>
+    <pubDate>Tue, 03 Jun 2025 15:30:00 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 15:30:00 +0200</lastBuildDate>
+    <category>Real Estate</category>
+    <generator>SeLoger Hackathon</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+
+    <item>
+      <title>Prices in Vincennes increased by 0,3% last month</title>
+      <link>https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-brown
+</link>
+      <description>
+             - The minimum price in this area is 7 009€ €/m² and listings stay on market for 10 days
+             - The maximum price in this area is 17 085 € €/m² and listings stay on market for 58 days
+             - The average price in this area is 10 885 €/m² and listings stay on market for 10 days
+
+             The confidence level for these information is uncertain.
+      </description>      <guid>https://www.seloger.com/prix-de-l-immo/detail/vincennes-94300</guid>
+      <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
+      <category>Market Insight</category>
+    </item>
+
+    <item>
+      <title>Prices in Paris 12 decreased by 0,5% last month</title>
+      <link>https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-gold
+</link>
+      <description>
+             - The minimum price in this area is 6 285€ €/m² and listings stay on market for 10 days
+             - The maximum price in this area is 15 953 € €/m² and listings stay on market for 58 days
+             - The average price in this area is 9 519 €/m² and listings stay on market for 10 days
+
+             The confidence level for these information is very high.
+      </description>
+      <guid>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD08FR31096</guid>
+      <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
+      <category>Market Insight</category>
+    </item>
+
+  </channel>
+</rss>
