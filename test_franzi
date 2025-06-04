@@ -1,1 +1,73 @@
-test
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <imageUrl>https://edito.seloger.com/sites/default/files/styles/480x/public/images/web/2025-06/dpe-carte%20pro.jpg?itok=ngz_TrNe</imageUrl>
+  <creator>Laetitia Navarra</creator>
+  <title>DPE : la Cour des comptes recommande une carte professionnelle de diagnostiqueur immobilier</title>
+  <link>https://edito.seloger.com/conseils-d-experts/renovation-energetique/dpe-cour-comptes-recommande-une-carte-professionnelle-de</link>
+  <pubDate>Wed, 04 Jun 2025 02:35:13 +0000</pubDate>
+  <dc:creator>Laetitia Navarra</dc:creator>
+  <content>
+      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;DPE : la Cour des comptes recommande une carte professionnelle de diagnostiqueur immobilier&lt;/h2&gt;
+  
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/laetitia-navarra" class="username"&gt;Laetitia Navarra&lt;/a&gt;&lt;/span&gt;
+
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-06-04T04:35:13+02:00" title="Mercredi 4 juin 2025 - 04:35" class="datetime"&gt;mer 04/06/2025 - 04:35&lt;/time&gt;
+&lt;/span&gt;
+
+  &lt;div class="node__links"&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/conseils-d-experts/renovation-energetique/dpe-cour-comptes-recommande-une-carte-professionnelle-de" rel="tag" title="DPE : la Cour des comptes recommande une carte professionnelle de diagnostiqueur immobilier" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
+&lt;div class="rate-widget custom"&gt;
+&lt;form class="node-article-20568-updown-article-vote-0 vote-form" id="rate-widget-base-form" data-drupal-selector="node-article-20568-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
+  
+&lt;table class="rating-table article-vote"&gt;
+      &lt;tr class="rating-table-tr"&gt;
+      &lt;td class="label-vote rating-table-td"&gt;Cet article vous a été utile ?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;tr class="rating-table-tr"&gt;
+    &lt;td class="rating-table-td"&gt;&lt;div class="custom-rating-wrapper rate-enabled" can-edit="true"&gt;&lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useful up-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1" type="radio" id="edit-value-1" name="value" value="1"&gt;
+useful
+  &lt;/label&gt;
+      &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
+    &lt;/div&gt;
+&lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useless down-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-2" type="radio" id="edit-value-1--2" name="value" value="-1"&gt;
+useless
+  &lt;/label&gt;
+      &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;input data-drupal-selector="form-8xcihdoihnhc0a4rpmrtzr-nqmoae6u-ca87rjrtqis" type="hidden" name="form_build_id" value="form-8XCIhDoIhNHC0a4rpmrTZr_NqMOAE6U_CA87RjrtQis"&gt;
+&lt;input data-drupal-selector="edit-node-article-20568-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20568_updown_article_vote_0"&gt;
+&lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--2" name="op" value="Enregistrer"&gt;
+&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+&lt;/div&gt;
+</content>
+  <contentSnippet>DPE : la Cour des comptes recommande une carte professionnelle de diagnostiqueur immobilier
+Laetitia Navarra
+
+mer 04/06/2025 - 04:35
+
+
+  
+Lire l'article
+  
+Cet article vous a été utile ?
+    
+
+
+useful
+  
+      
+0
+    
+
+useless
+  
+      
+0</contentSnippet>
+  <guid>20568 at https://edito.seloger.com</guid>
+  <isoDate>2025-06-04T02:35:13.000Z</isoDate>
+</root>
