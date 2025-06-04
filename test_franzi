@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <imageUrl>https://edito.seloger.com/sites/default/files/styles/240x160/public/images/web/2025-04/Quelles%20aides%20pour%20faire%20changer%20ses%20fen%C3%AAtres_SeLoger.jpg?itok=roHGaHNN</imageUrl>
-  <creator>Paul Anthonioz</creator>
-  <title>Chambre à coucher : nouveau look, nouvelle tête de lit !</title>
-  <link>https://edito.seloger.com/tendances/decoration-interieure/deco-5-tetes-de-lit-ultra-tendance-reinventer-chambre-coucher_10</link>
-  <pubDate>Thu, 17 Apr 2025 09:03:10 +0000</pubDate>
-  <dc:creator>Paul Anthonioz</dc:creator>
+  <imageUrl>https://edito.seloger.com/sites/default/files/styles/240x160/public/images/web/2024-11/DPE-chauffage-electrique-seloger.jpg?itok=phjQK2Xu</imageUrl>
+  <creator>Laetitia Navarra</creator>
+  <title>Ces cuisines extérieures vont vous donner envie d'inviter plus souvent !</title>
+  <link>https://edito.seloger.com/tendances/amenagement-exterieur/cuisine-exterieure-7-inspirations-copier-cet-ete-article-20208_8.html</link>
+  <pubDate>Thu, 10 Apr 2025 07:00:00 +0000</pubDate>
+  <dc:creator>Laetitia Navarra</dc:creator>
   <content>
-      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Chambre à coucher : nouveau look, nouvelle tête de lit !&lt;/h2&gt;
+      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Ces cuisines extérieures vont vous donner envie d'inviter plus souvent !&lt;/h2&gt;
   
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/paul-anthonioz" class="username"&gt;Paul Anthonioz&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/laetitia-navarra" class="username"&gt;Laetitia Navarra&lt;/a&gt;&lt;/span&gt;
 
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-04-17T11:03:10+02:00" title="Jeudi 17 avril 2025 - 11:03" class="datetime"&gt;jeu 17/04/2025 - 11:03&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-04-10T09:00:00+02:00" title="Jeudi 10 avril 2025 - 09:00" class="datetime"&gt;jeu 10/04/2025 - 09:00&lt;/time&gt;
 &lt;/span&gt;
 
   &lt;div class="node__links"&gt;
-    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/tendances/decoration-interieure/deco-5-tetes-de-lit-ultra-tendance-reinventer-chambre-coucher_10" rel="tag" title="Chambre à coucher : nouveau look, nouvelle tête de lit !" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/tendances/amenagement-exterieur/cuisine-exterieure-7-inspirations-copier-cet-ete-article-20208_8.html" rel="tag" title="Ces cuisines extérieures vont vous donner envie d'inviter plus souvent !" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
 &lt;div class="rate-widget custom"&gt;
-&lt;form class="node-article-20286-updown-article-vote-0 vote-form" id="rate-widget-base-form--4" data-drupal-selector="node-article-20286-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
+&lt;form class="node-article-20208-updown-article-vote-0 vote-form" id="rate-widget-base-form--5" data-drupal-selector="node-article-20208-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
   
 &lt;table class="rating-table article-vote"&gt;
       &lt;tr class="rating-table-tr"&gt;
@@ -25,30 +25,30 @@
     &lt;/tr&gt;
   &lt;tr class="rating-table-tr"&gt;
     &lt;td class="rating-table-td"&gt;&lt;div class="custom-rating-wrapper rate-enabled" can-edit="true"&gt;&lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
-  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useful up-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-7" type="radio" id="edit-value-1--7" name="value" value="1"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useful up-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-9" type="radio" id="edit-value-1--9" name="value" value="1"&gt;
 useful
   &lt;/label&gt;
-      &lt;div class="rating-option-result"&gt;57&lt;/div&gt;
+      &lt;div class="rating-option-result"&gt;1&lt;/div&gt;
     &lt;/div&gt;
 &lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
-  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useless down-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-8" type="radio" id="edit-value-1--8" name="value" value="-1"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useless down-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-10" type="radio" id="edit-value-1--10" name="value" value="-1"&gt;
 useless
   &lt;/label&gt;
-      &lt;div class="rating-option-result"&gt;10&lt;/div&gt;
+      &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;&lt;input data-drupal-selector="form-lagr5hr0qrn2nbu5zk-tyx-wolgjo4djmpp36uljzbk" type="hidden" name="form_build_id" value="form-lagr5HR0QRN2nBU5zk-tYX-wolGJO4djMpP36ulJzbk"&gt;
-&lt;input data-drupal-selector="edit-node-article-20286-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20286_updown_article_vote_0"&gt;
-&lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--8" name="op" value="Enregistrer"&gt;
+&lt;/div&gt;&lt;input data-drupal-selector="form-jkwlrpwuxuxfh-ex7rdljpfwycl2sfhugbknxicuz3q" type="hidden" name="form_build_id" value="form-JkWLRpwuxuxfH-Ex7RdlJpfWyCL2SFHugbKnXiCUz3Q"&gt;
+&lt;input data-drupal-selector="edit-node-article-20208-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20208_updown_article_vote_0"&gt;
+&lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--10" name="op" value="Enregistrer"&gt;
 &lt;/td&gt;
     &lt;/tr&gt;
 &lt;/table&gt;
 &lt;/form&gt;
 &lt;/div&gt;
 </content>
-  <contentSnippet>Chambre à coucher : nouveau look, nouvelle tête de lit !
-Paul Anthonioz
+  <contentSnippet>Ces cuisines extérieures vont vous donner envie d'inviter plus souvent !
+Laetitia Navarra
 
-jeu 17/04/2025 - 11:03
+jeu 10/04/2025 - 09:00
 
 
   
@@ -61,12 +61,13 @@ Cet article vous a été utile ?
 useful
   
       
-57
+1
+    
 
 useless
   
       
-10</contentSnippet>
-  <guid>20286 at https://edito.seloger.com</guid>
-  <isoDate>2025-04-17T09:03:10.000Z</isoDate>
+0</contentSnippet>
+  <guid>20208 at https://edito.seloger.com</guid>
+  <isoDate>2025-04-10T07:00:00.000Z</isoDate>
 </root>
