@@ -35,11 +35,10 @@
       <link>https://img.shields.io/badge/confidence-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-gold
 </link>
       <description>
-             - The minimum price in this area is 6 285€ €/m² and listings stay on market for 10 days
-             - The maximum price in this area is 15 953 € €/m² and listings stay on market for 58 days
-             - The average price in this area is 9 519 €/m² and listings stay on market for 10 days
-
-             The confidence level is very high by PriceAPI API.
+&#x3C;ul&#x3E;&#x3C;li&#x3E;
+The average price in this area is 9 519 &#x20AC;/m&#xB2; and listings stay on market for 10 days.&#x3C;/li&#x3E;&#x3C;/ul&#x3E;
+&#x3C;br&#x3E;
+&#x3C;i&#x3E;The confidence level is very high by &#x3C;a href=&#x22;https://price-api.poetic-sunfish-dev.aws.aviv.eu/v1/docs#/priceAPI&#x22;&#x3E;PriceAPI API&#x3C;/a&#x3E;.&#x3C;/i&#x3E;
       </description>
       <guid>https://demo-geo-dev.cosmic-bullfrog-dev.aws.aviv.eu/places/AD08FR31096</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
