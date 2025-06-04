@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <imageUrl>https://edito.seloger.com/sites/default/files/styles/350x210/public/images/web/2025-01/Personne%20anxieuse%20devant%20ordinateur%201.jpg?itok=APIiqxvc</imageUrl>
-  <creator>Morgane Jacquet</creator>
-  <title>Vous êtes propriétaire bailleur et vous envisagez des travaux, êtes-vous éligible aux subventions de l’ANAH ? </title>
-  <link>https://edito.seloger.com/conseils-d-experts/reglementations/etes-proprietaire-bailleur-envisagez-travaux-etes-eligible-aux</link>
-  <pubDate>Tue, 03 Jun 2025 14:00:00 +0000</pubDate>
-  <dc:creator>Morgane Jacquet</dc:creator>
+  <imageUrl>https://edito.seloger.com/sites/default/files/styles/240x160/public/images/web/2025-02/epaisseur-isolation-exterieure-se-loger.jpg?itok=pKCp482N</imageUrl>
+  <creator>Blandine Rochelle</creator>
+  <title>Quelles sont les démarches à faire quand on déménage ?</title>
+  <link>https://edito.seloger.com/conseils-d-experts/demenager/demarches-faire-demenage-article-20380.html</link>
+  <pubDate>Mon, 05 May 2025 12:57:36 +0000</pubDate>
+  <dc:creator>Blandine Rochelle</dc:creator>
   <content>
-      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Vous êtes propriétaire bailleur et vous envisagez des travaux, êtes-vous éligible aux subventions de l’ANAH ? &lt;/h2&gt;
+      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Quelles sont les démarches à faire quand on déménage ?&lt;/h2&gt;
   
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/morgane-jacquet" class="username"&gt;Morgane Jacquet&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/blandine-rochelle" class="username"&gt;Blandine Rochelle&lt;/a&gt;&lt;/span&gt;
 
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-06-03T16:00:00+02:00" title="Mardi 3 juin 2025 - 16:00" class="datetime"&gt;mar 03/06/2025 - 16:00&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-05-05T14:57:36+02:00" title="Lundi 5 mai 2025 - 14:57" class="datetime"&gt;lun 05/05/2025 - 14:57&lt;/time&gt;
 &lt;/span&gt;
 
   &lt;div class="node__links"&gt;
-    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/conseils-d-experts/reglementations/etes-proprietaire-bailleur-envisagez-travaux-etes-eligible-aux" rel="tag" title="Vous êtes propriétaire bailleur et vous envisagez des travaux, êtes-vous éligible aux subventions de l’ANAH ? " hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/conseils-d-experts/demenager/demarches-faire-demenage-article-20380.html" rel="tag" title="Quelles sont les démarches à faire quand on déménage ?" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
 &lt;div class="rate-widget custom"&gt;
-&lt;form class="node-article-20413-updown-article-vote-0 vote-form" id="rate-widget-base-form" data-drupal-selector="node-article-20413-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
+&lt;form class="node-article-20380-updown-article-vote-0 vote-form" id="rate-widget-base-form--2" data-drupal-selector="node-article-20380-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
   
 &lt;table class="rating-table article-vote"&gt;
       &lt;tr class="rating-table-tr"&gt;
@@ -25,30 +25,30 @@
     &lt;/tr&gt;
   &lt;tr class="rating-table-tr"&gt;
     &lt;td class="rating-table-td"&gt;&lt;div class="custom-rating-wrapper rate-enabled" can-edit="true"&gt;&lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
-  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useful up-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1" type="radio" id="edit-value-1" name="value" value="1"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useful up-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-3" type="radio" id="edit-value-1--3" name="value" value="1"&gt;
 useful
   &lt;/label&gt;
       &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
     &lt;/div&gt;
 &lt;div class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value"&gt;
-  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useless down-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-2" type="radio" id="edit-value-1--2" name="value" value="-1"&gt;
+  &lt;label class="form-item js-form-item form-type-radio js-form-type-radio form-item-value js-form-item-value rating-label rating-label-custom rating-label-custom-useless down-article-vote"&gt;&lt;input twig-suggestion="rating-input" class="rating-input custom-rating-input form-radio" data-drupal-selector="edit-value-1-4" type="radio" id="edit-value-1--4" name="value" value="-1"&gt;
 useless
   &lt;/label&gt;
       &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;&lt;input data-drupal-selector="form-v7rwviaslhbrpcek-m-nw1kmv0jgvyvohbjg15jwse4" type="hidden" name="form_build_id" value="form-V7RwViASLhbrpcek_m_Nw1kmV0JGVYvoHBJg15jWSE4"&gt;
-&lt;input data-drupal-selector="edit-node-article-20413-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20413_updown_article_vote_0"&gt;
-&lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--2" name="op" value="Enregistrer"&gt;
+&lt;/div&gt;&lt;input data-drupal-selector="form-kc-eh-nlsybksldw4laebk-gsr3t7t0j4waexgqjpzg" type="hidden" name="form_build_id" value="form-KC_EH-nlSYbKsldw4laEBK-GSr3T7t0J4waExGqJPzg"&gt;
+&lt;input data-drupal-selector="edit-node-article-20380-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20380_updown_article_vote_0"&gt;
+&lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--4" name="op" value="Enregistrer"&gt;
 &lt;/td&gt;
     &lt;/tr&gt;
 &lt;/table&gt;
 &lt;/form&gt;
 &lt;/div&gt;
 </content>
-  <contentSnippet>Vous êtes propriétaire bailleur et vous envisagez des travaux, êtes-vous éligible aux subventions de l’ANAH ? 
-Morgane Jacquet
+  <contentSnippet>Quelles sont les démarches à faire quand on déménage ?
+Blandine Rochelle
 
-mar 03/06/2025 - 16:00
+lun 05/05/2025 - 14:57
 
 
   
@@ -68,6 +68,6 @@ useless
   
       
 0</contentSnippet>
-  <guid>20413 at https://edito.seloger.com</guid>
-  <isoDate>2025-06-03T14:00:00.000Z</isoDate>
+  <guid>20380 at https://edito.seloger.com</guid>
+  <isoDate>2025-05-05T12:57:36.000Z</isoDate>
 </root>
