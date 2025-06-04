@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <root>
-  <imageUrl>https://edito.seloger.com/sites/default/files/styles/350x210/public/images/web/2025-04/DPE%20E%20gel%20loyers.jpg?itok=JZf0d0nH</imageUrl>
-  <creator>Morgane Jacquet</creator>
-  <title>Les règles d’utilisation de la vidéosurveillance en copropriété</title>
-  <link>https://edito.seloger.com/conseils-d-experts/reglementations/regles-d-utilisation-de-videosurveillance-copropriete-article</link>
-  <pubDate>Wed, 04 Jun 2025 06:00:00 +0000</pubDate>
-  <dc:creator>Morgane Jacquet</dc:creator>
+  <imageUrl>https://edito.seloger.com/sites/default/files/styles/350x210/public/images/web/2024-12/ameliorer-logement-e.jpg?itok=KDiKI-ww</imageUrl>
+  <creator>Paul Anthonioz</creator>
+  <title>Jardin : quelles plantes installer autour d'une piscine ?</title>
+  <link>https://edito.seloger.com/materiaux-equipements/autour-jardin/plantes-installer-autour-d-une-piscine-article-20562.html</link>
+  <pubDate>Tue, 03 Jun 2025 12:50:15 +0000</pubDate>
+  <dc:creator>Paul Anthonioz</dc:creator>
   <content>
-      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Les règles d’utilisation de la vidéosurveillance en copropriété&lt;/h2&gt;
+      &lt;h2 class="field field--name-title field--type-string field--label-hidden"&gt;Jardin : quelles plantes installer autour d'une piscine ?&lt;/h2&gt;
   
-&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/morgane-jacquet" class="username"&gt;Morgane Jacquet&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="Voir le profil utilisateur." href="https://edito.seloger.com/users/paul-anthonioz" class="username"&gt;Paul Anthonioz&lt;/a&gt;&lt;/span&gt;
 
-&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-06-04T08:00:00+02:00" title="Mercredi 4 juin 2025 - 08:00" class="datetime"&gt;mer 04/06/2025 - 08:00&lt;/time&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;&lt;time datetime="2025-06-03T14:50:15+02:00" title="Mardi 3 juin 2025 - 14:50" class="datetime"&gt;mar 03/06/2025 - 14:50&lt;/time&gt;
 &lt;/span&gt;
 
   &lt;div class="node__links"&gt;
-    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/conseils-d-experts/reglementations/regles-d-utilisation-de-videosurveillance-copropriete-article" rel="tag" title="Les règles d’utilisation de la vidéosurveillance en copropriété" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
+    &lt;ul class="links inline"&gt;&lt;li class="node-readmore"&gt;&lt;a href="https://edito.seloger.com/materiaux-equipements/autour-jardin/plantes-installer-autour-d-une-piscine-article-20562.html" rel="tag" title="Jardin : quelles plantes installer autour d'une piscine ?" hreflang="fr"&gt;Lire l'article&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;  &lt;/div&gt;
 &lt;div class="rate-widget custom"&gt;
-&lt;form class="node-article-20556-updown-article-vote-0 vote-form" id="rate-widget-base-form" data-drupal-selector="node-article-20556-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
+&lt;form class="node-article-20562-updown-article-vote-0 vote-form" id="rate-widget-base-form" data-drupal-selector="node-article-20562-updown-article-vote-0" action="https://edito.seloger.com/rss.xml" method="post" accept-charset="UTF-8"&gt;
   
 &lt;table class="rating-table article-vote"&gt;
       &lt;tr class="rating-table-tr"&gt;
@@ -36,8 +36,8 @@ useless
   &lt;/label&gt;
       &lt;div class="rating-option-result"&gt;0&lt;/div&gt;
     &lt;/div&gt;
-&lt;/div&gt;&lt;input data-drupal-selector="form-fqkxltt978ziovssn9eao5td-fwuard97plll-1fi4" type="hidden" name="form_build_id" value="form-FqKXLTT978ZIOvSsn9eaO5TD--FWuarD97PLLl-1fi4"&gt;
-&lt;input data-drupal-selector="edit-node-article-20556-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20556_updown_article_vote_0"&gt;
+&lt;/div&gt;&lt;input data-drupal-selector="form-kqz-whg-stjjxviietu3zbkqy69e01e8llofr9pqzno" type="hidden" name="form_build_id" value="form-kQz_wHg_stjjXViIeTU3ZbkQy69E01E8lLofR9PQZNo"&gt;
+&lt;input data-drupal-selector="edit-node-article-20562-updown-article-vote-0" type="hidden" name="form_id" value="node_article_20562_updown_article_vote_0"&gt;
 &lt;input class="custom-rating-submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" data-disable-refocus="true" type="submit" id="edit-submit--2" name="op" value="Enregistrer"&gt;
 &lt;/td&gt;
     &lt;/tr&gt;
@@ -45,10 +45,10 @@ useless
 &lt;/form&gt;
 &lt;/div&gt;
 </content>
-  <contentSnippet>Les règles d’utilisation de la vidéosurveillance en copropriété
-Morgane Jacquet
+  <contentSnippet>Jardin : quelles plantes installer autour d'une piscine ?
+Paul Anthonioz
 
-mer 04/06/2025 - 08:00
+mar 03/06/2025 - 14:50
 
 
   
@@ -68,6 +68,6 @@ useless
   
       
 0</contentSnippet>
-  <guid>20556 at https://edito.seloger.com</guid>
-  <isoDate>2025-06-04T06:00:00.000Z</isoDate>
+  <guid>20562 at https://edito.seloger.com</guid>
+  <isoDate>2025-06-03T12:50:15.000Z</isoDate>
 </root>
