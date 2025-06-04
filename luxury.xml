@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[luxury Feed]]></title>
+        <description><![CDATA[Recently for sale properties in Vincennes, Saint-Mandé, and Paris 12.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>SeLoger Hackathon</generator>
+        <lastBuildDate>Wed, 04 Jun 2025 17:10:55 GMT</lastBuildDate>
+        <pubDate>Wed, 04 Jun 2025 17:10:55 GMT</pubDate>
+        <copyright><![CDATA[Copyright 2025, SeLoger. All rights reserved]]></copyright>
+        <language><![CDATA[fr-FR]]></language>
+        <managingEditor><![CDATA[info@seloger.com (SeLoger)]]></managingEditor>
+        <webMaster><![CDATA[info@seloger.com (SeLoger)]]></webMaster>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title><![CDATA[811 m² - 16 pièces - 25 500 000 €]]></title>
+            <description><![CDATA[Hôtel Particulier - Neuilly-sur-Seine - Maurice Barrès]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/neuilly-sur-seine-92/242881987.htm</guid>
+            <enclosure url="https://mms.seloger.com/c/e/7/9/ce79ac33-3b95-45fc-87b5-310ae60bf78f.jpg?ci_seal=bae58f8f13f9b9918ba45f9440d234d110a437b4" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[632,6 m² - 15 pièces - 23 000 000 €]]></title>
+            <description><![CDATA[Paris 4ème - Place des Vosges. Maison bourgeoise avec cour arbor]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/paris-4eme-75/arsenal/224711991.htm</guid>
+            <enclosure url="https://mms.seloger.com/c/4/a/7/c4a71c63-fbaf-498a-935d-033bddd70946.jpg?ci_seal=2140abaa4c06fbec1bb4af531820536d60e6160b" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[565 m² - 7 pièces - 22 000 000 €]]></title>
+            <description><![CDATA[Maison rénovée avec terrasse dans une voie privée.]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/228211945/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/1/0/b/8/10b84529-a744-4912-86ac-3f86a73ee933.jpg?ci_seal=c6246b1f46684fb45cd8893ab708ba490c6f1b43" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[731 m² - 8 pièces - 19 500 000 €]]></title>
+            <description><![CDATA[Neuilly/Saussaye - Prestigieux Hôtel particulier]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/241050415/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/a/a/9/6/aa96aab1-965f-4cc4-8bdc-0ee81c67da7d.jpg?ci_seal=c742406c791394ef7a80c40c2a4c1da7c2d2d2ff" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[700 m² - 10 pièces - 18 800 000 €]]></title>
+            <description><![CDATA[A vendre - Neuilly St James, superbe propriété de 700 m² entour]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240055951/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/e/c/7/3/ec73737a-3288-4f73-8772-132f9290cedd.jpg?ci_seal=e1f6f3d9cf1dedfdc78a1658e8df22bc9a060694" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[625 m² - 12 pièces - 16 000 000 €]]></title>
+            <description><![CDATA[Hotel Particulier Paris XVI Eme]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/232330951/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/8/9/b/0/89b06afc-df38-41ce-b15f-aab4b40747ae.jpg?ci_seal=c6f438a84ad9b7c0146ec52f1f2294a346d7f84e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[600 m² - 20 pièces - 14 800 000 €]]></title>
+            <description><![CDATA[Paris XVI - Ensemble immobilier d'exception]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/242444131/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/8/0/f/e/80fe4ed4-1e60-4674-bd30-175da552734b.jpg?ci_seal=3365ad88a647aa53b9ade2f5addc7eb0f6555b45" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[625 m² - 15 pièces - 13 950 000 €]]></title>
+            <description><![CDATA[Paris IV - île Saint Louis - Rare opportunité: un immeuble histo]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/222142803/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/6/2/6/f/626fbf20-42d1-4f70-9235-38f92bbec247.jpg?ci_seal=6b77ed8afc5af1beb8839bd048926891afe07a14" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[300 m² - 13 pièces - 13 500 000 €]]></title>
+            <description><![CDATA[Paris VIIe - Unique - La campagne à Paris - Le Bon Marché Rive]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/222313439/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/0/6/7/5/067595f6-9311-4fb0-9912-fc5bfab1beb1.jpg?ci_seal=f44d59c9115ad09783c20aa36dc737c8fec74cf9" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[770 m² - 4 pièces - 13 100 000 €]]></title>
+            <description><![CDATA[Paris XVIe -  voie privée Arborée]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/paris-16eme-75/muette-nord/210790051.htm</guid>
+            <enclosure url="https://mms.seloger.com/b/2/5/a/b25a1661-d5fe-402a-a455-485fd28c7a9d.jpg?ci_seal=b1c9f9e4fa196104a2918fd4070eab0d4e43cb5e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[644,5 m² - 15 pièces - 12 630 000 €]]></title>
+            <description><![CDATA[Hôtel particulier d'exception-Neuilly sur Seine]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/241865957/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/4/9/a/7/49a71e38-6ef0-48b0-84be-b6597a977b68.jpg?ci_seal=eaae1b39fed6c018efbd8a114c59d3b53409b6d0" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[471,9 m² - 14 pièces - 11 900 000 €]]></title>
+            <description><![CDATA[Paris 16 - Passy, Élégant Hôtel Particulier Familial]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/239369515/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/1/b/a/5/1ba5ffc7-c4c6-46da-ab0f-076a53d280ff.jpg?ci_seal=decf6c533952ac8ea25807fddbf2568483f69294" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[640 m² - 15 pièces - 11 000 000 €]]></title>
+            <description><![CDATA[Illustre propriété contemporaine de plein pied au coeur d'un p]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/versailles-78/saint-louis/234131611.htm</guid>
+            <enclosure url="https://mms.seloger.com/7/1/5/d/715d6700-87ad-4470-adac-24bb93d5fb8d.jpg?ci_seal=965ddec96213b5575ed8ee483b24aabfffc0d35b" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[425 m² - 10 pièces - 11 000 000 €]]></title>
+            <description><![CDATA[Hôtel particulier 10 pièces - 425m² + extérieurs]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/242154005/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/5/5/0/c/550c1a99-4994-4a57-9d72-7a5211538bea.jpg?ci_seal=a94a772349cedacdf66e833bcad2ced8ea86f52e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[800 m² - 12 pièces - + de 10M €]]></title>
+            <description><![CDATA[Magnifique Hôtel Particulier]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/241156839/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/9/e/9/d/9e9d3464-5c32-4ca4-9bc0-48d24260ba48.jpg?ci_seal=151fb2af95f35509bd05e287039f5c1f8d8683d8" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[408 m² - 10 pièces - 10 290 000 €]]></title>
+            <description><![CDATA[Exclusivité - Maison avec jardin et terrasse en plein coeur de S]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/228318259/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/2/2/6/8/2268d418-ff7a-4450-b20c-3b27bfea2600.jpg?ci_seal=d3184bf8c0f7ec636c0fc78428538129887b8079" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[470 m² - 14 pièces - 8 950 000 €]]></title>
+            <description><![CDATA[Hôtel Particulier - Duc d'Orléans]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/neuilly-sur-seine-92/239905159.htm</guid>
+            <enclosure url="https://mms.seloger.com/9/f/a/7/9fa7121f-b72c-4245-95bd-2cb7a266c162.jpg?ci_seal=d723531ba11984717b16d41df234cd650d7b0cbe" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[374,5 m² - 12 pièces - 8 650 000 €]]></title>
+            <description><![CDATA[Paris 16e - BOULAINVILLIERS / LA MUETTE - Hôtel particulier à ve]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240000455/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/7/6/9/0/76909813-a31d-4745-8c4a-bcf727b95954.jpg?ci_seal=9f634a5d31afb6718cb60a17a8c64b512d12ef0f" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[450 m² - 8 pièces - 8 500 000 €]]></title>
+            <description><![CDATA[HOTEL PARTICULIER - BOIS]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/243338937/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/7/1/6/4/7164e4c9-d90a-48cf-8528-cb10fd2c81c2.jpg?ci_seal=367bdc0aefc482eb4b5e02fdcd336c9fc19daa76" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[375 m² - 12 pièces - 8 500 000 €]]></title>
+            <description><![CDATA[Maison 12 pièces]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/239893481/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/4/8/3/8/4838afee-f590-47d6-b238-1870bb85d31c.jpg?ci_seal=3574e92114228d2ce9e13424c1fadd3f78d6c7b1" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[553 m² - 15 pièces - 7 900 000 €]]></title>
+            <description><![CDATA[Hôtel Particulier - Pereire - Malesherbes]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240144577/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/8/e/3/b/8e3b994c-1e0a-42ce-be27-5735d4ed63cc.jpg?ci_seal=cf147937c1f549cc43e353d904cf22435e341b5e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[?? m² - 10 pièces - 7 800 000 €]]></title>
+            <description><![CDATA[Paris 16 – Voie Privée Ranelagh - Maison familiale entièrement r]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/paris-16eme-75/muette-sud/242624457.htm</guid>
+            <enclosure url="https://mms.seloger.com/b/3/a/f/b3af1bec-c9bf-4dc9-887f-7d31a15965e6.jpg?ci_seal=a7e4e665a2c0b2981014cb8d29e9fa852ee120e7" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[837 m² - 9 pièces - 7 700 000 €]]></title>
+            <description><![CDATA[Maison Feucherolles 9 pièce(s) 837.62 m2]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240105087/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/d/6/1/2/d612d971-fe2b-4a21-b392-a97129ad9f26.jpg?ci_seal=2d17a0e43772a8808eaba526f65aada095bed144" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[453 m² - 9 pièces - 7 600 000 €]]></title>
+            <description><![CDATA[PARIS XVI - SUBLIME HOTEL PARTICULIER AVEC ROOFTOP ET VUE TOUR E]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/paris-16eme-75/241837243.htm</guid>
+            <enclosure url="https://mms.seloger.com/6/f/e/a/6feaecf3-c853-4beb-bcf1-749acab56cfa.jpg?ci_seal=b11ccc9cb344d551daa2bb9953a602e6bc605610" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[430 m² - 11 pièces - 7 480 000 €]]></title>
+            <description><![CDATA[Hôtel particulier 11 pièces]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/paris-16eme-75/226130761.htm</guid>
+            <enclosure url="https://mms.seloger.com/a/b/a/8/aba82c3a-af8a-4a16-8c13-7a3c8b60996d.jpg?ci_seal=b209a86e1526771fdd8081eeee2cab55a2156ff6" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[300 m² - 8 pièces - 6 900 000 €]]></title>
+            <description><![CDATA[Maison d'Architecte – Boulogne-Billancourt – 5 Chambres avec Pis]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240431717/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/e/2/f/0/e2f0d338-a9c0-4131-9758-b707af47374c.jpg?ci_seal=c18e70426656143bd5a045fc553f4afe4535e539" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[300 m² - 8 pièces - 6 900 000 €]]></title>
+            <description><![CDATA[Manoir 8 pièces BOULOGNE-BILLANCOURT]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/boulogne-billancourt-92/parchamp-albert-kahn/240756125.htm</guid>
+            <enclosure url="https://mms.seloger.com/c/5/2/9/c529c99a-b0cf-4ef3-ba5a-2e553a7d3749.jpg?ci_seal=e2595b38a5370be6518bfdc98a1e600255423526" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[300 m² - 10 pièces - 6 900 000 €]]></title>
+            <description><![CDATA[BOULOGNE - HÔTEL PARTICULIER]]></description>
+            <guid isPermaLink="false">https://www.seloger.com/annonces/achat/maison/boulogne-billancourt-92/243149743.htm</guid>
+            <enclosure url="https://mms.seloger.com/5/d/7/8/5d787760-a242-4587-a3b4-666315b1d1d3.jpg?ci_seal=e750f06d8eb4e1979d81b85f8f3474c55ce9443c" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[298,1 m² - 10 pièces - 6 550 000 €]]></title>
+            <description><![CDATA[Paris 17e - PARC MONCEAU / VILLIERS - Hôtel particulier à vendre]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/243157527/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/3/8/f/7/38f7c059-23a6-42de-9fec-ed248579dc24.jpg?ci_seal=b530d592648c83ddcac842b6e2ade05d29041d0e" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[412 m² - 9 pièces - 6 500 000 €]]></title>
+            <description><![CDATA[Neuilly - Chézy-Château - Hôtel particulier - Jardin]]></description>
+            <guid isPermaLink="false">https://www.bellesdemeures.com/240746157/detail.htm</guid>
+            <enclosure url="https://mms.seloger.com/8/5/2/b/852b05d1-33ed-490f-b16a-10de48d1d381.jpg?ci_seal=9c117425e9f33515d14ab68129cb3aaf942ae10c" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
