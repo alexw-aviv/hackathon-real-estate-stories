@@ -13,86 +13,85 @@
     <category>Real Estate</category>
     <generator>SeLoger Hackathon</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-
-    <item>
+<item>
       <title>Apartment in Paris 17ème - 74.05m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 1225650€ on 2025-06-03</description>
+      <description>Apartment sold on 2025-06-03</description>
+      <guid>1225650€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 9ème - 94.92m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 1092500€ on 2025-06-03</description>
+      <description>Apartment sold on 2025-06-03</description>
+      <guid>1092500€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 7ème - 53.06m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 733221€ on 2025-06-02</description>
+      <description>Apartment sold on 2025-06-02</description>
+      <guid>733221€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 18ème - 112.6m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 1501172€ on 2025-06-02</description>
+      <description>Apartment sold on 2025-06-02</description>
+      <guid>1501172€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 3ème - 59.62m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 801600€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>801600€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 7ème - 232.39m2</title>
       <link>https://nodalview.com/s/1CWY4rp6z5RgizRC9WiVXg#video</link>
-      <description>Sold 3597880€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>3597880€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 9ème - 121.15m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 1434500€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>1434500€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 9ème - 121.15m2</title>
       <link>https://player.vimeo.com/video/848671664</link>
-      <description>Sold 1434500€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>1434500€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 7ème - 232.39m2</title>
       <link>https://nodalview.com/s/1CWY4rp6z5RgizRC9WiVXg#video</link>
-      <description>Sold 3597880€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>3597880€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-    <item>
+<item>
       <title>Apartment in Paris 17ème - 129.26m2</title>
       <link>https://nodalview.com/s/3RrOE0Oq5Ak8qzJ6u-uIJa#video</link>
-      <description>Sold 1525000€ on 2025-05-28</description>
+      <description>Apartment sold on 2025-05-28</description>
+      <guid>1525000€</guid>
       <pubDate>Tue, 03 Jun 2025 15:00:00 +0200</pubDate>
       <category>Sold Properties</category>
     </item>
-
-  </channel>
+</channel>
 </rss>
